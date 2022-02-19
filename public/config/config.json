@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3323Ce64c19e2739Ea10f69972D94f1BE0c59258",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3323ce64c19e2739ea10f69972d94f1be0c59258",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Lazy Eyes NFT",
+  "SYMBOL": "LES",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lazyeyes",
+  "SHOW_BACKGROUND": true
+}
