@@ -1,6 +1,6 @@
 # Welcome to LazyEyes 👁
 
-![]()
+![](https://github.com/lazyeyesdao/lazyeyes_nft_minting_dapp/blob/main/Logo.png)
 
 Documentation: https://lazy-eyes.gitbook.io/overview/university/minting-contracts-and-storage-nfts
 
