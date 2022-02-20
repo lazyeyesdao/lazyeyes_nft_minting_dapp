@@ -292,7 +292,7 @@ function App() {
                         getData();
                       }}
                     >
-                      CONNECT
+                      Connect Wallet
                     </StyledButton>
                     {blockchain.errorMsg !== "" ? (
                       <>
